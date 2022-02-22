@@ -1,1 +1,7 @@
-
+ gcc -g p1original.c -lm
+ ./a.out
+Input x1, y1: 
+4 4
+Input x2, y2: 
+3 3
+The distance between the points (4.000000,4.000000) and (3.000000,3.000000) is 2.000000 
